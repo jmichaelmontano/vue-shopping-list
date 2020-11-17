@@ -8,9 +8,18 @@
 </head>
 <body>
     <div id="shopping-list">
-
+        <h1>{{ header.toLocaleUpperCase() }}</h1>
+        <input type="text" name="" id="" v-model="header">
     </div>
 
     <script src="https://unpkg.com/vue"></script>
+    <script>
+        var shoppingList = new Vue({
+            el: '#shopping-list',
+            data: {
+                header: 'Shopping List App'
+            }
+        })
+    </script>
 </body>
 </html>
