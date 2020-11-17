@@ -1,8 +1,9 @@
-# Vue.js Fundamentals
+# Vue Shopping List
 
 [![](https://vueschool.s3.amazonaws.com/089f25af6e0e1f678474f10e98fdb6d0/vuejs-fundamentals.png)](https://vueschool.io/courses/vuejs-fundamentals)
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
+[Click here to view online demo](https://jmichaelmontano.github.io/vue-shopping-list/)
 
 This Vue.js course will teach you and get you up and running with the fundamental concepts of Vue.js. Perfect if you haven't touched Vue before or you just getting started!
 
